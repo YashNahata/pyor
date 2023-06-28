@@ -1,3 +1,5 @@
+![App screenshot](https://github.com/YashNahata/pyor/assets/72266382/0c240c67-1949-464d-ad85-630e4ab3c708)
+
 You can clone & create this repo with the following command
 
 First, create virtual environment using :
