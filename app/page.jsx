@@ -18,9 +18,6 @@ export default function Chart() {
             height: 300,
           });
           const lineSeries = chart.addLineSeries();
-
-          chart.add;
-
           lineSeries.setData(data);
           chart.applyOptions({
             timeScale: {
